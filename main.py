@@ -20,7 +20,7 @@ def data_extract():
     outcome['magnitude'] = 4.9
     outcome['location'] = {'LU': 0.83, 'BT':98.50}
     outcome['EQ Center'] = '81 km in the Northeast of South Nias'
-    outcome['Note'] = 'EQ shaking intensity II Pangautan (MMI Scale'
+    outcome['Note'] = 'EQ shaking intensity II Pangautan (MMI Scale)'
     return outcome
 
 
