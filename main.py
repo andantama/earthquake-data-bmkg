@@ -18,6 +18,9 @@ def data_extract():
     outcome['date'] = 'February 03, 2022'
     outcome['time'] = '02:29:18 GMT+7'
     outcome['magnitude'] = 4.9
+    outcome['location'] = {'LU': 0.83, 'BT':98.50}
+    outcome['EQ Center'] = '81 km in the Northeast of South Nias'
+    outcome['Note'] = 'EQ shaking intensity II Pangautan (MMI Scale'
     return outcome
 
 
